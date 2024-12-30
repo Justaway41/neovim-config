@@ -30,6 +30,7 @@ require("lazy").setup({
         { import = "lazyvim.plugins.extras.util.mini-hipatterns" },
         { import = "lazyvim.plugins.extras.ai.copilot" },
         { import = "lazyvim.plugins.extras.vscode" },
+        { import = "lazyvim.plugins.extras.editor.harpoon2" },
         { import = "plugins" },
     },
     defaults = {
