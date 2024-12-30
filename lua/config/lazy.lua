@@ -31,6 +31,9 @@ require("lazy").setup({
         { import = "lazyvim.plugins.extras.ai.copilot" },
         { import = "lazyvim.plugins.extras.vscode" },
         { import = "lazyvim.plugins.extras.editor.harpoon2" },
+        { import = "lazyvim.plugins.extras.formatting.prettier" },
+        { import = "lazyvim.plugins.extras.coding.mini-surround" },
+
         { import = "plugins" },
     },
     defaults = {
