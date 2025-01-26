@@ -28,12 +28,12 @@ require("lazy").setup({
         { import = "lazyvim.plugins.extras.lang.toml" },
         { import = "lazyvim.plugins.extras.util.dot" },
         { import = "lazyvim.plugins.extras.util.mini-hipatterns" },
-        { import = "lazyvim.plugins.extras.ai.copilot" },
         { import = "lazyvim.plugins.extras.vscode" },
         { import = "lazyvim.plugins.extras.editor.harpoon2" },
+        { import = "lazyvim.plugins.extras.ai.copilot" },
         { import = "lazyvim.plugins.extras.formatting.prettier" },
         { import = "lazyvim.plugins.extras.coding.mini-surround" },
-
+        { import = "lazyvim.plugins.extras.util.gitui" },
         { import = "plugins" },
     },
     defaults = {
